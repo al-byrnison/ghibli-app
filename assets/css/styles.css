@@ -1,0 +1,44 @@
+body {
+  background-image: url('https://getwallpapers.com/wallpaper/full/7/1/8/655313.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.bg__navbar {
+  background-image: url('https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Studio_Ghibli_logo.svg/1200px-Studio_Ghibli_logo.svg.png');
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  filter: sepia(0.5);
+  min-width: 100%;
+}
+
+.not__found {
+  background-image: url('https://images3.alphacoders.com/843/843267.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#onboarding {
+  background-image: url('https://images2.alphacoders.com/790/thumbbig-790708.webp');
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.max__lines {
+  max-height: 6rem;
+  overflow: scroll;
+}
+
+.bg__poster {
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.bg__filter {
+  backdrop-filter: blur(0.3rem) !important;
+  z-index: 2;
+}
